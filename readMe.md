@@ -1,6 +1,4 @@
 JS/HTML recap
+=============
 
-index.html is what we did in class.
-index1.html is the same functionality with select tags
-
-they both use the same .js file (scripts/inventory.js)
+We'll be using select tags and nested if statements to check if an oddities store has something fitting the given description in stock.
